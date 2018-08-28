@@ -18,7 +18,7 @@ Example:
 ### How to use ###
 
 * Download files from this repository
-* Install dependencies (pip install -r requirements.txt) (not required)
+* Install dependencies (pip install -r requirements.txt)
 * Start the server (main.py)
 * Enjoy
 
